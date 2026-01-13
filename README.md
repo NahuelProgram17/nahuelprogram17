@@ -25,7 +25,7 @@ Sistema simple de gestión de usuarios con validaciones y tests.
 
 🔹 **Sistema de Reservas (Django)**  
 Proyecto backend con Django, modelos, admin y base de datos.  
-👉 Repo: (lo agregamos en el próximo paso)
+👉 Repo: https://github.com/nahuelprogram17/padel-reservas-django
 
 ---
 
