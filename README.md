@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Nahuel
 
-<!--
-**NahuelProgram17/nahuelprogram17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación enfocado en Backend con Python.  
+📚 Actualmente aprendiendo y desarrollando proyectos prácticos para ganar experiencia profesional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+- Python
+- Git & GitHub
+- SQL (básico)
+- Django (en aprendizaje)
+
+---
+
+## 📂 Proyectos
+🔹 [Task Manager en Python](LINK_A_TU_REPO)  
+Aplicación de consola para gestionar tareas con persistencia en JSON y tests.
+
+🔹 [User Manager](LINK_A_TU_REPO)  
+Gestión de usuarios con validaciones y tests automatizados.
+
+---
+
+## 📫 Contacto
+- LinkedIn: TU_LINK
+- GitHub: https://github.com/TUUSUARIO
