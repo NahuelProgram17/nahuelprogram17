@@ -16,8 +16,8 @@
 ## 📂 Proyectos
 
 🔹 **Task Manager en Python**  
-Aplicación de consola para gestionar tareas, con persistencia en archivo JSON y tests automatizados.  
-👉 Repo: (lo agregamos en el próximo paso)
+Aplicación de consola para gestionar tareas, con persistencia en archivo JSON.  
+👉 Repo: https://github.com/nahuelprogram17/task_manager
 
 🔹 **User Manager**  
 Sistema simple de gestión de usuarios con validaciones y tests.  
