@@ -21,7 +21,7 @@ Aplicación de consola para gestionar tareas, con persistencia en archivo JSON.
 
 🔹 **User Manager**  
 Sistema simple de gestión de usuarios con validaciones y tests.  
-👉 Repo: (lo agregamos en el próximo paso)
+👉 Repo: https://github.com/nahuelprogram17/user_manager
 
 🔹 **Sistema de Reservas (Django)**  
 Proyecto backend con Django, modelos, admin y base de datos.  
